@@ -2,8 +2,8 @@
 
 Summary:	Devhelp help file support for the Sphinx documentation generator
 Name:		python-%{module}
-Version:	1.0.1
-Release:	2
+Version:	1.0.2
+Release:	1
 Source0:	https://github.com/sphinx-doc/%{module}/archive/%{version}.tar.gz
 License:	ISC
 Group:		Development/Python
