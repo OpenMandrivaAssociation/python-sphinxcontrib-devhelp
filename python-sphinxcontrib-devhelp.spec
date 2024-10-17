@@ -7,7 +7,7 @@ Release:	4
 Source0:	https://github.com/sphinx-doc/%{module}/archive/%{version}.tar.gz
 License:	ISC
 Group:		Development/Python
-Url:		http://sphinx-doc.org/
+Url:		https://sphinx-doc.org/
 BuildArch:	noarch
 BuildRequires:	pkgconfig(python2)
 BuildRequires:	pkgconfig(python3)
